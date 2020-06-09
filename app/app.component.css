@@ -1,0 +1,9 @@
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+a {
+    text-decoration: none;
+    padding: 15px;
+}

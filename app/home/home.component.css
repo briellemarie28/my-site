@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cuprum&display=swap');
+
+h1 {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 250%;
+    display: flex;
+    justify-content: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50%;
+    margin-right: 50%;
+ 
+}
+a {
+    text-decoration: none; 
+}
+p {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 120%;
+}
+img {
+    border-radius: 50%;
+}
+li {
+    list-style-type: none;
+    margin-left: 30%;
+    margin-right: 70%;
+}
